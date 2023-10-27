@@ -12,7 +12,8 @@ import com.qa.test.Base;
 public class SearchTest extends Base{
 	
 	public WebDriver driver;
-	
+	// Adding comment to test
+	//Added 2nd comment in a new branch
 	public SearchTest() {
 		super();
 	}
