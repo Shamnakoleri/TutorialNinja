@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import com.qa.test.Base;
 import com.utilities.tutorial.Utilities;
 
-public class Register extends Base{
+public class RegisterTest extends Base{
 	
 	public WebDriver driver;
 	@BeforeMethod

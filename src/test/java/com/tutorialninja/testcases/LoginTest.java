@@ -14,13 +14,13 @@ import com.pageobject.pages.qa.LoginPage;
 import com.qa.test.Base;
 import com.utilities.tutorial.Utilities;
 
-public class Login extends Base{
+public class LoginTest extends Base{
 	
 	
 	public WebDriver driver;
 	LoginPage loginPage ;
 	
-	public Login() {
+	public LoginTest() {
 		super();
 	}
 	

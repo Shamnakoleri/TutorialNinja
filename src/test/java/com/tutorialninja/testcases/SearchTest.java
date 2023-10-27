@@ -9,11 +9,11 @@ import org.testng.annotations.Test;
 
 import com.qa.test.Base;
 
-public class Search extends Base{
+public class SearchTest extends Base{
 	
 	public WebDriver driver;
 	
-	public Search() {
+	public SearchTest() {
 		super();
 	}
 	@BeforeMethod

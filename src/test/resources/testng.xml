@@ -7,9 +7,9 @@
  
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.tutorialninja.testcases.Search"/>
-      <class name="com.tutorialninja.testcases.Register"/>
-      <class name="com.tutorialninja.testcases.Login"/>
+      <class name="com.tutorialninja.testcases.SearchTest"/>
+      <class name="com.tutorialninja.testcases.RegisterTest"/>
+      <class name="com.tutorialninja.testcases.LoginTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
